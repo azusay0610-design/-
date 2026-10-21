@@ -105,4 +105,4 @@ Node.js (Express) および PostgreSQL を用いた予約管理Webアプリケ�
 ---
 
 ## アプリURL
-file:///Users/a/vet-app/vet-app/public/index.html
+http://localhost:3000/
