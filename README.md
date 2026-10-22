@@ -108,3 +108,4 @@ Node.js (Express) および PostgreSQL を用いた予約管理Webアプリケ�
 http://localhost:3000/
 
 ## アプリのスクリーンショット画像
+<img width="1819" height="987" alt="image" src="https://github.com/user-attachments/assets/2addf6f8-0948-4ade-92f3-06d18f342587" />
