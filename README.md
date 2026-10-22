@@ -109,4 +109,5 @@ http://localhost:3000/
 
 ## アプリのスクリーンショット画像
 <img width="817" height="978" alt="image" src="https://github.com/user-attachments/assets/48353e37-439f-4f80-88fa-7c9f8ad3e971" />
+<img width="725" height="969" alt="image" src="https://github.com/user-attachments/assets/c85bf309-5dde-428b-a200-4f9cd2dc6149" />
 
