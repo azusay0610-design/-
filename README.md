@@ -106,3 +106,6 @@ Node.js (Express) および PostgreSQL を用いた予約管理Webアプリケ�
 
 ## アプリURL
 http://localhost:3000/
+
+## アプリのスクリーンショット画像
+
